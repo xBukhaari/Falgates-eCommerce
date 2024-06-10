@@ -1,0 +1,587 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 56;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		04A77C1E2C1709B1004596B8 /* Falgates_eCommerceApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04A77C1D2C1709B1004596B8 /* Falgates_eCommerceApp.swift */; };
+		04A77C202C1709B1004596B8 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04A77C1F2C1709B1004596B8 /* ContentView.swift */; };
+		04A77C222C1709B3004596B8 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 04A77C212C1709B3004596B8 /* Assets.xcassets */; };
+		04A77C252C1709B3004596B8 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 04A77C242C1709B3004596B8 /* Preview Assets.xcassets */; };
+		04A77C2F2C1709B3004596B8 /* Falgates_eCommerceTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04A77C2E2C1709B3004596B8 /* Falgates_eCommerceTests.swift */; };
+		04A77C392C1709B3004596B8 /* Falgates_eCommerceUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04A77C382C1709B3004596B8 /* Falgates_eCommerceUITests.swift */; };
+		04A77C3B2C1709B3004596B8 /* Falgates_eCommerceUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04A77C3A2C1709B3004596B8 /* Falgates_eCommerceUITestsLaunchTests.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		04A77C2B2C1709B3004596B8 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 04A77C122C1709B1004596B8 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 04A77C192C1709B1004596B8;
+			remoteInfo = "Falgates eCommerce";
+		};
+		04A77C352C1709B3004596B8 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 04A77C122C1709B1004596B8 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 04A77C192C1709B1004596B8;
+			remoteInfo = "Falgates eCommerce";
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		04A77C1A2C1709B1004596B8 /* Falgates eCommerce.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Falgates eCommerce.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		04A77C1D2C1709B1004596B8 /* Falgates_eCommerceApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Falgates_eCommerceApp.swift; sourceTree = "<group>"; };
+		04A77C1F2C1709B1004596B8 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		04A77C212C1709B3004596B8 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		04A77C242C1709B3004596B8 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		04A77C2A2C1709B3004596B8 /* Falgates eCommerceTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Falgates eCommerceTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		04A77C2E2C1709B3004596B8 /* Falgates_eCommerceTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Falgates_eCommerceTests.swift; sourceTree = "<group>"; };
+		04A77C342C1709B3004596B8 /* Falgates eCommerceUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Falgates eCommerceUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		04A77C382C1709B3004596B8 /* Falgates_eCommerceUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Falgates_eCommerceUITests.swift; sourceTree = "<group>"; };
+		04A77C3A2C1709B3004596B8 /* Falgates_eCommerceUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Falgates_eCommerceUITestsLaunchTests.swift; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		04A77C172C1709B1004596B8 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		04A77C272C1709B3004596B8 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		04A77C312C1709B3004596B8 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		04A77C112C1709B1004596B8 = {
+			isa = PBXGroup;
+			children = (
+				04A77C1C2C1709B1004596B8 /* Falgates eCommerce */,
+				04A77C2D2C1709B3004596B8 /* Falgates eCommerceTests */,
+				04A77C372C1709B3004596B8 /* Falgates eCommerceUITests */,
+				04A77C1B2C1709B1004596B8 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		04A77C1B2C1709B1004596B8 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				04A77C1A2C1709B1004596B8 /* Falgates eCommerce.app */,
+				04A77C2A2C1709B3004596B8 /* Falgates eCommerceTests.xctest */,
+				04A77C342C1709B3004596B8 /* Falgates eCommerceUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		04A77C1C2C1709B1004596B8 /* Falgates eCommerce */ = {
+			isa = PBXGroup;
+			children = (
+				04A77C1D2C1709B1004596B8 /* Falgates_eCommerceApp.swift */,
+				04A77C1F2C1709B1004596B8 /* ContentView.swift */,
+				04A77C212C1709B3004596B8 /* Assets.xcassets */,
+				04A77C232C1709B3004596B8 /* Preview Content */,
+			);
+			path = "Falgates eCommerce";
+			sourceTree = "<group>";
+		};
+		04A77C232C1709B3004596B8 /* Preview Content */ = {
+			isa = PBXGroup;
+			children = (
+				04A77C242C1709B3004596B8 /* Preview Assets.xcassets */,
+			);
+			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		04A77C2D2C1709B3004596B8 /* Falgates eCommerceTests */ = {
+			isa = PBXGroup;
+			children = (
+				04A77C2E2C1709B3004596B8 /* Falgates_eCommerceTests.swift */,
+			);
+			path = "Falgates eCommerceTests";
+			sourceTree = "<group>";
+		};
+		04A77C372C1709B3004596B8 /* Falgates eCommerceUITests */ = {
+			isa = PBXGroup;
+			children = (
+				04A77C382C1709B3004596B8 /* Falgates_eCommerceUITests.swift */,
+				04A77C3A2C1709B3004596B8 /* Falgates_eCommerceUITestsLaunchTests.swift */,
+			);
+			path = "Falgates eCommerceUITests";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		04A77C192C1709B1004596B8 /* Falgates eCommerce */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 04A77C3E2C1709B3004596B8 /* Build configuration list for PBXNativeTarget "Falgates eCommerce" */;
+			buildPhases = (
+				04A77C162C1709B1004596B8 /* Sources */,
+				04A77C172C1709B1004596B8 /* Frameworks */,
+				04A77C182C1709B1004596B8 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "Falgates eCommerce";
+			productName = "Falgates eCommerce";
+			productReference = 04A77C1A2C1709B1004596B8 /* Falgates eCommerce.app */;
+			productType = "com.apple.product-type.application";
+		};
+		04A77C292C1709B3004596B8 /* Falgates eCommerceTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 04A77C412C1709B3004596B8 /* Build configuration list for PBXNativeTarget "Falgates eCommerceTests" */;
+			buildPhases = (
+				04A77C262C1709B3004596B8 /* Sources */,
+				04A77C272C1709B3004596B8 /* Frameworks */,
+				04A77C282C1709B3004596B8 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				04A77C2C2C1709B3004596B8 /* PBXTargetDependency */,
+			);
+			name = "Falgates eCommerceTests";
+			productName = "Falgates eCommerceTests";
+			productReference = 04A77C2A2C1709B3004596B8 /* Falgates eCommerceTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		04A77C332C1709B3004596B8 /* Falgates eCommerceUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 04A77C442C1709B3004596B8 /* Build configuration list for PBXNativeTarget "Falgates eCommerceUITests" */;
+			buildPhases = (
+				04A77C302C1709B3004596B8 /* Sources */,
+				04A77C312C1709B3004596B8 /* Frameworks */,
+				04A77C322C1709B3004596B8 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				04A77C362C1709B3004596B8 /* PBXTargetDependency */,
+			);
+			name = "Falgates eCommerceUITests";
+			productName = "Falgates eCommerceUITests";
+			productReference = 04A77C342C1709B3004596B8 /* Falgates eCommerceUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		04A77C122C1709B1004596B8 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1530;
+				LastUpgradeCheck = 1530;
+				TargetAttributes = {
+					04A77C192C1709B1004596B8 = {
+						CreatedOnToolsVersion = 15.3;
+					};
+					04A77C292C1709B3004596B8 = {
+						CreatedOnToolsVersion = 15.3;
+						TestTargetID = 04A77C192C1709B1004596B8;
+					};
+					04A77C332C1709B3004596B8 = {
+						CreatedOnToolsVersion = 15.3;
+						TestTargetID = 04A77C192C1709B1004596B8;
+					};
+				};
+			};
+			buildConfigurationList = 04A77C152C1709B1004596B8 /* Build configuration list for PBXProject "Falgates eCommerce" */;
+			compatibilityVersion = "Xcode 14.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 04A77C112C1709B1004596B8;
+			productRefGroup = 04A77C1B2C1709B1004596B8 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				04A77C192C1709B1004596B8 /* Falgates eCommerce */,
+				04A77C292C1709B3004596B8 /* Falgates eCommerceTests */,
+				04A77C332C1709B3004596B8 /* Falgates eCommerceUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		04A77C182C1709B1004596B8 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				04A77C252C1709B3004596B8 /* Preview Assets.xcassets in Resources */,
+				04A77C222C1709B3004596B8 /* Assets.xcassets in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		04A77C282C1709B3004596B8 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		04A77C322C1709B3004596B8 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		04A77C162C1709B1004596B8 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				04A77C202C1709B1004596B8 /* ContentView.swift in Sources */,
+				04A77C1E2C1709B1004596B8 /* Falgates_eCommerceApp.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		04A77C262C1709B3004596B8 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				04A77C2F2C1709B3004596B8 /* Falgates_eCommerceTests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		04A77C302C1709B3004596B8 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				04A77C3B2C1709B3004596B8 /* Falgates_eCommerceUITestsLaunchTests.swift in Sources */,
+				04A77C392C1709B3004596B8 /* Falgates_eCommerceUITests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		04A77C2C2C1709B3004596B8 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 04A77C192C1709B1004596B8 /* Falgates eCommerce */;
+			targetProxy = 04A77C2B2C1709B3004596B8 /* PBXContainerItemProxy */;
+		};
+		04A77C362C1709B3004596B8 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 04A77C192C1709B1004596B8 /* Falgates eCommerce */;
+			targetProxy = 04A77C352C1709B3004596B8 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		04A77C3C2C1709B3004596B8 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.4;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		04A77C3D2C1709B3004596B8 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.4;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		04A77C3F2C1709B3004596B8 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"Falgates eCommerce/Preview Content\"";
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.xbukhaari.Falgates-eCommerce";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		04A77C402C1709B3004596B8 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"Falgates eCommerce/Preview Content\"";
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.xbukhaari.Falgates-eCommerce";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		04A77C422C1709B3004596B8 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.4;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.xbukhaari.Falgates-eCommerceTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Falgates eCommerce.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/Falgates eCommerce";
+			};
+			name = Debug;
+		};
+		04A77C432C1709B3004596B8 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.4;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.xbukhaari.Falgates-eCommerceTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Falgates eCommerce.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/Falgates eCommerce";
+			};
+			name = Release;
+		};
+		04A77C452C1709B3004596B8 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.xbukhaari.Falgates-eCommerceUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = "Falgates eCommerce";
+			};
+			name = Debug;
+		};
+		04A77C462C1709B3004596B8 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.xbukhaari.Falgates-eCommerceUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = "Falgates eCommerce";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		04A77C152C1709B1004596B8 /* Build configuration list for PBXProject "Falgates eCommerce" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				04A77C3C2C1709B3004596B8 /* Debug */,
+				04A77C3D2C1709B3004596B8 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		04A77C3E2C1709B3004596B8 /* Build configuration list for PBXNativeTarget "Falgates eCommerce" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				04A77C3F2C1709B3004596B8 /* Debug */,
+				04A77C402C1709B3004596B8 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		04A77C412C1709B3004596B8 /* Build configuration list for PBXNativeTarget "Falgates eCommerceTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				04A77C422C1709B3004596B8 /* Debug */,
+				04A77C432C1709B3004596B8 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		04A77C442C1709B3004596B8 /* Build configuration list for PBXNativeTarget "Falgates eCommerceUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				04A77C452C1709B3004596B8 /* Debug */,
+				04A77C462C1709B3004596B8 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 04A77C122C1709B1004596B8 /* Project object */;
+}
